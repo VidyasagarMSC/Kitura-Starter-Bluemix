@@ -10,10 +10,10 @@
 **Bluemix starter application for Kitura web framework and HTTP server**
 
 ## What is Kitura?
-[Kitura](https://github.com/IBM-Swift/Kitura) is a new, modular, package-based web framework written in the Swift language, that allows you to build web services with complex routes, easily.
+<a href="https://github.com/IBM-Swift/Kitura" target="_blank">Kitura</a> is a new, modular, package-based web framework written in the Swift language, that allows you to build web services with complex routes, easily.
 
 ## Kitura-Starter-Bluemix Overview
-Kitura-Starter-Bluemix is a [Kitura](https://github.com/IBM-Swift/Kitura) based server application that you can use as a starting point to get your own Kitura application up and running on Bluemix. Also, if you'd like to run this app locally, you can do so on your [macOS](http://www.apple.com/osx/) or [Ubuntu 14.04](http://www.ubuntu.com/download) system.
+Kitura-Starter-Bluemix is a <a href="https://github.com/IBM-Swift/Kitura" target="_blank">Kitura</a> based server application that you can use as a starting point to get your own Kitura application up and running on Bluemix. Also, if you'd like to run this app locally, you can do so on your <a href="http://www.apple.com/osx/" target="_blank">macOS</a> or <a href="http://www.ubuntu.com/download" target="_blank">Ubuntu 14.04</a> system.
 
 ## Application Requirements
 To compile and run this starter application on your local system, you need to install the [Swift compiler](https://swift.org/download/) for your platform. This version of Kitura-Starter-Bluemix works with the Swift `3.0` release binaries. Compatibility with other Swift versions is not guaranteed.
